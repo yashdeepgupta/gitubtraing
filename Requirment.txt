@@ -2,3 +2,6 @@ this is chat applicatio
 EMOJI
 Typeing option
 Background colour 
+LOGO
+Dark MODE
+Video Option
